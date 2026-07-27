@@ -39,8 +39,8 @@ status: "Final Year, B.E. Electronics & Communication Engineering"
 institution: "V.S.B. Engineering College, Karur."
 goal: "Build scalable, intelligent, production-grade software"
 specialization: ["Full-Stack Development", "Generative AI", "Machine Learning"]
-Agentic AI for Skill Gap Analysis:https://agentic-ai-for-skill-gap-analysis-a.vercel.app/login
-Hire Flow:https://hire-flow-blush.vercel.app/login
+Agentic AI for Skill Gap Analysis: https://agentic-ai-for-skill-gap-analysis-a.vercel.app/login
+Hire Flow: https://hire-flow-blush.vercel.app/login
 ```
 
 Aspiring Software Engineer with strong foundations in **Full-Stack Development**, **Generative AI**, and **Machine Learning**. I engineer intelligent systems with clean architecture and real diagnostics — no wasted parts. My work ranges from LLM-powered agentic platforms to real-time ML intrusion detection pipelines.
