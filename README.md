@@ -1,59 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050710,50:0A2647,100:00D9FF&height=280&section=header&text=ABISHEK%20S&fontSize=72&fontColor=ceedf2&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%2FML%20ENGINEER&descAlignY=55&descSize=20&descColor=00D9FF" width="100%"/>
+# Hi, I'm Abishek S 👋
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%2B+Generative+AI;B.E.+ECE+%40+V.S.B.+Engineering+College;Turning+Ideas+Into+Working+Products;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+### Full-Stack Developer | Generative AI Enthusiast | Machine Learning Learner
+
+<p>
+  I build scalable, intelligent, and user-focused software applications.
+  <br/>
+  Passionate about turning ideas into practical digital products.
+</p>
+
+<a href="https://agentic-ai-for-skill-gap-analysis-a.vercel.app/login">
+  <img src="https://img.shields.io/badge/Agentic_AI-Skill_Gap_Analysis-00D9FF?style=for-the-badge&logo=ai&logoColor=white" />
 </a>
-
-<br/>
-
-![Education](https://img.shields.io/badge/B.E._ECE-V.S.B._Engineering_College-0A2647?style=for-the-badge&logo=googlescholar&logoColor=E8F4FD&labelColor=050710)
-![CGPA](https://img.shields.io/badge/CGPA-7.54-144272?style=for-the-badge&logo=target&logoColor=00D9FF&labelColor=050710)
-![Location](https://img.shields.io/badge/Location-Tamil_Nadu,_India-144272?style=for-the-badge&logo=googlemaps&logoColor=E8F4FD&labelColor=050710)
-
-<br/>
-
-<a href="https://www.linkedin.com/in/abishek5383/"><img src="https://img.shields.io/badge/LinkedIn-0A2647?style=for-the-badge&logo=linkedin&logoColor=E8F4FD&labelColor=050710" /></a>
-<a href="mailto:s.abishek5383@gmail.com"><img src="https://img.shields.io/badge/Email-144272?style=for-the-badge&logo=gmail&logoColor=E8F4FD&labelColor=050710" /></a>
-<a href="https://github.com/Abishek5383"><img src="https://img.shields.io/badge/GitHub-144272?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=050710" /></a>
-<a href="tel:+919894745383"><img src="https://img.shields.io/badge/Call-+91_98947_45383-0A2647?style=for-the-badge&logo=phone&logoColor=E8F4FD&labelColor=050710" /></a>
+<a href="https://hire-flow-blush.vercel.app/login">
+  <img src="https://img.shields.io/badge/Hire_Flow-Explore_Project-0A2647?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abishek5383&color=144272&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Abishek5383?color=144272&style=flat-square&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/Abishek5383?color=144272&style=flat-square&label=STARS)
+<a href="https://www.linkedin.com/in/abishek5383/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:s.abishek5383@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Abishek5383">
+  <img src="https://img.shields.io/badge/GitHub-Abishek5383-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-</div>
+---
 
-### 🧬 About Me
+## About Me
 
-Hi, I’m Abishek S, a final-year B.E. Electronics and Communication Engineering student at V.S.B. Engineering College, Karur. I am passionate about building scalable, intelligent, and production-ready software solutions.
+I am a final-year B.E. Electronics and Communication Engineering student at **V.S.B. Engineering College, Karur**. My primary interests include **full-stack development, Generative AI, and Machine Learning**.
 
-My areas of interest include full-stack development, Generative AI, and Machine Learning. I enjoy creating practical applications that solve real-world problems and continuously improving my skills through hands-on projects.
+I enjoy designing and developing production-ready applications that solve real-world problems. Along with programming, I also have skills in **video editing and poster designing**, which help me combine technical knowledge with creativity.
 
-Some of my projects include:
-
-Agentic AI for Skill Gap Analysis: https://agentic-ai-for-skill-gap-analysis-a.vercel.app/login
-
-Hire Flow: https://hire-flow-blush.vercel.app/login
-
-I am currently focused on strengthening my technical expertise and exploring innovative ways to integrate AI into modern software applications.
-
-
-
-Aspiring Software Engineer with strong foundations in **Full-Stack Development**, **Generative AI**, and **Machine Learning**. I engineer intelligent systems with clean architecture and real diagnostics — no wasted parts. My work ranges from LLM-powered agentic platforms to real-time ML intrusion detection pipelines.
-
-Along with software development, I also have skills in video editing and poster designing. I enjoy creating engaging visual content, editing videos, and designing attractive posters for digital platforms, projects, and promotional purposes.
-
-<table align="center">
-<tr>
-<td>
+> **Build with logic. Design with creativity. Learn without limits.**
 
 **🎯 Open To**
 - Entry-Level Software Engineering Roles
