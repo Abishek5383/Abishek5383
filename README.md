@@ -1,36 +1,34 @@
 <div align="center">
 
-# Hi, I'm Abishek S 👋
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=ABISHEK%20S&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Generative%20AI%20%7C%20Machine%20Learning&descAlignY=55&descSize=18&descColor=E0F2FE" width="100%" />
 
-### Full-Stack Developer | Generative AI Enthusiast | Machine Learning Learner
+  <h3>Building scalable products with code, creativity, and AI.</h3>
 
-<p>
-  I build scalable, intelligent, and user-focused software applications.
-  <br/>
-  Passionate about turning ideas into practical digital products.
-</p>
+  <p>
+    I’m a final-year ECE student at V.S.B. Engineering College, Karur, focused on
+    full-stack development, Generative AI, and Machine Learning.
+  </p>
 
-<a href="https://agentic-ai-for-skill-gap-analysis-a.vercel.app/login">
-  <img src="https://img.shields.io/badge/Agentic_AI-Skill_Gap_Analysis-00D9FF?style=for-the-badge&logo=ai&logoColor=white" />
-</a>
-<a href="https://hire-flow-blush.vercel.app/login">
-  <img src="https://img.shields.io/badge/Hire_Flow-Explore_Project-0A2647?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+  <a href="https://agentic-ai-for-skill-gap-analysis-a.vercel.app/login">
+    <img src="https://img.shields.io/badge/Project_1-Agentic_AI_Skill_Gap_Analysis-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://hire-flow-blush.vercel.app/login">
+    <img src="https://img.shields.io/badge/Project_2-Hire_Flow-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
-<br/><br/>
+  <br /><br />
 
-<a href="https://www.linkedin.com/in/abishek5383/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:s.abishek5383@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Abishek5383">
-  <img src="https://img.shields.io/badge/GitHub-Abishek5383-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/abishek5383/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:s.abishek5383@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Abishek5383">
+    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
 </div>
-
 ---
 
 ## About Me
