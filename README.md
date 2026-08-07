@@ -33,17 +33,23 @@
 
 ### 🧬 About Me
 
-```yaml
-identity: "Abishek S"
-status: "Final Year, B.E. Electronics & Communication Engineering"
-institution: "V.S.B. Engineering College, Karur."
-goal: "Build scalable, intelligent, production-grade software"
-specialization: ["Full-Stack Development", "Generative AI", "Machine Learning"]
+Hi, I’m Abishek S, a final-year B.E. Electronics and Communication Engineering student at V.S.B. Engineering College, Karur. I am passionate about building scalable, intelligent, and production-ready software solutions.
+
+My areas of interest include full-stack development, Generative AI, and Machine Learning. I enjoy creating practical applications that solve real-world problems and continuously improving my skills through hands-on projects.
+
+Some of my projects include:
+
 Agentic AI for Skill Gap Analysis: https://agentic-ai-for-skill-gap-analysis-a.vercel.app/login
+
 Hire Flow: https://hire-flow-blush.vercel.app/login
-```
+
+I am currently focused on strengthening my technical expertise and exploring innovative ways to integrate AI into modern software applications.
+
+
 
 Aspiring Software Engineer with strong foundations in **Full-Stack Development**, **Generative AI**, and **Machine Learning**. I engineer intelligent systems with clean architecture and real diagnostics — no wasted parts. My work ranges from LLM-powered agentic platforms to real-time ML intrusion detection pipelines.
+
+Along with software development, I also have skills in video editing and poster designing. I enjoy creating engaging visual content, editing videos, and designing attractive posters for digital platforms, projects, and promotional purposes.
 
 <table align="center">
 <tr>
