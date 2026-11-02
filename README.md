@@ -1,258 +1,341 @@
+<!-- ============================================================
+     GITHUB PROFILE README — Abishek S
+     Theme: Black  |  Cobalt Blue (#0047AB)  |  Acid Lime (#CCFF00)
+     ============================================================ -->
+
+<!-- ===== HERO BANNER (typing SVG, forced black bg) ===== -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=ABISHEK%20S&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Generative%20AI%20%7C%20Machine%20Learning&descAlignY=55&descSize=18&descColor=E0F2FE" width="100%" />
-
-  <h3>Building scalable products with code, creativity, and AI.</h3>
-
-  <p>
-    I’m a final-year ECE student at V.S.B. Engineering College, Karur, focused on
-    full-stack development, Generative AI, and Machine Learning.
-  </p>
-
-  <a href="https://agentic-ai-for-skill-gap-analysis-a.vercel.app/login">
-    <img src="https://img.shields.io/badge/Project_1-Agentic_AI_Skill_Gap_Analysis-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://hire-flow-blush.vercel.app/login">
-    <img src="https://img.shields.io/badge/Project_2-Hire_Flow-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-
-  <br /><br />
-
-  <a href="https://www.linkedin.com/in/abishek5383/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:s.abishek5383@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Abishek5383">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=600&color=CCFF00&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=140&lines=Hi+%F0%9F%91%8B%2C+I'm+Abishek+S;%F0%9F%9A%80+ECE+%7C+IoT+%7C+Full-Stack+%7C+AI;Building+hardware+%2B+software+that+ships" alt="Typing Banner" />
 
 </div>
----
 
-## About Me
+<br/>
 
-I am a final-year B.E. Electronics and Communication Engineering student at **V.S.B. Engineering College, Karur**. My primary interests include **full-stack development, Generative AI, and Machine Learning**.
+<!-- ===== STATUS / META BADGES ===== -->
+<div align="center">
 
-I enjoy designing and developing production-ready applications that solve real-world problems. Along with programming, I also have skills in **video editing and poster designing**, which help me combine technical knowledge with creativity.
+<a href="https://github.com/Abishek-S?tab=followers"><img src="https://img.shields.io/github/followers/Abishek-S?label=FOLLOWERS&style=for-the-badge&color=CCFF00&labelColor=0047AB&logo=github&logoColor=0047AB" alt="Followers" /></a>
+<img src="https://komarev.com/visitors?username=Abishek-S&label=PROFILE+VIEWS&style=for-the-badge&color=CCFF00&labelColor=0047AB&logo=eye&logoColor=0047AB" alt="Visitors" />
+<a href="https://github.com/Abishek-S?tab=repositories"><img src="https://img.shields.io/github/repo-search/Abishek-S/Abishek-S?label=REPOS&style=for-the-badge&color=CCFF00&labelColor=0047AB&logo=book&logoColor=0047AB" alt="Repos" /></a>
+<img src="https://img.shields.io/github/last-commit/Abishek-S/Abishek-S?label=LAST+COMMIT&style=for-the-badge&color=CCFF00&labelColor=0047AB&logo=git&logoColor=0047AB" alt="Last Commit" />
 
-> **Build with logic. Design with creativity. Learn without limits.**
+</div>
 
-**🎯 Open To**
-- Entry-Level Software Engineering Roles
-- Full-Stack Development Opportunities
-- AI/ML & Generative AI Engineering Roles
-- Collaborative Open-Source Projects
+<br/>
+
+<!-- ===== SECTION DIVIDER ===== -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abishek-S/Abishek-S/output/assets/divider-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abishek-S/Abishek-S/output/assets/divider-dark.svg">
+  <img src="https://raw.githubusercontent.com/Abishek-S/Abishek-S/output/assets/divider-dark.svg" width="100%" alt="divider" />
+</picture>
+
+<!-- ===== ABOUT ME ===== -->
+<div align="center">
+
+## <img src="https://img.shields.io/badge/%F0%9F%91%8B-ABOUT_ME-0047AB?style=flat-square&labelColor=000000&color=0047AB" alt="About" /> &nbsp; Who I Am
+
+</div>
+
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   Aspiring Electronics & Communication Engineer (B.E. ECE, '27)  ║
+║   V.S.B. Engineering College, Karur — Anna University            ║
+║                                                                  ║
+║   Bridging the gap between silicon and software:                 ║
+║   ► Embedded systems + IoT prototypes that talk to the cloud     ║
+║   ► Full-stack web apps that wrap LLMs into useful products      ║
+║   ► Hardware-software integration for real-world deployments     ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🌱 Currently Leveling Up
+<img src="https://img.shields.io/badge/Agentic_AI-CCFF00?style=for-the-badge&labelColor=000000&logo=openai&logoColor=0047AB" alt="Agentic AI" />
+<br/>
+<img src="https://img.shields.io/badge/LLM_Integration-CCFF00?style=for-the-badge&labelColor=000000&logo=probot&logoColor=0047AB" alt="LLM" />
+<br/>
+<img src="https://img.shields.io/badge/Embedded_Systems-CCFF00?style=for-the-badge&labelColor=000000&logo=raspberrypi&logoColor=0047AB" alt="Embedded" />
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 💡 Quick Facts
+| &nbsp; | &nbsp; |
+| :---: | :--- |
+| 🎓 | B.E. ECE, CGPA 7.5 |
+| 🏢 | NoviTech R&D Trainee '25 |
+| 🏆 | ET Gen AI Hackathon Semi-Finalist |
+| 💬 | Tamil, English |
+| 📍 | Karur, Tamil Nadu, India |
+| 🎯 | Open to internships & collabs |
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### 🛠️ Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java&theme=dark" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=fastapi,mongodb&theme=dark" />
-
-**Tooling & Design**
-
-<img src="https://skillicons.dev/icons?i=vscode,figma,git,github,capcut,canvas&theme=dark" />
-
----
-
-### 🤖 AI / ML Expertise
-
+<!-- ===== TECH STACK ===== -->
 <div align="center">
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **LLM Integration** | 🔵🔵🔵🔵⚪ | Google Gemini API — resume parsing, skill extraction, structured report generation |
-| **Prompt Engineering** | 🔵🔵🔵🔵⚪ | Designed targeted prompts for multi-role skill-gap analysis & roadmap generation |
-| **Machine Learning** | 🔵🔵🔵🔵⚪ | XGBoost-based network traffic classification, 95%+ accuracy on CICIDS2017-style data |
-| **Applied AI Pipelines** | 🔵🔵🔵⚪⚪ | End-to-end integration of AI inference into live FastAPI backends |
-| **Document Intelligence** | 🔵🔵🔵⚪⚪ | OCR + parsing pipelines (pdfplumber, python-docx, pytesseract) feeding LLM scoring logic |
+## <img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F-TECH_STACK-0047AB?style=flat-square&labelColor=000000&color=0047AB" alt="Tech Stack" /> &nbsp; My Arsenal
 
 </div>
 
----
+<div align="center">
 
-### 🚀 Featured Projects
+**<sub>PROGRAMMING LANGUAGES</sub>**
 
-<details>
-<summary><b>🧭 Agentic AI — Skill Gap Analysis & Job Recommendation</b></summary>
+<a href="#"><img src="https://img.shields.io/badge/Java-0047AB?style=for-the-badge&logo=openjdk&logoColor=CCFF00" alt="Java" /></a>
+<a href="#"><img src="https://img.shields.io/badge/C++-0047AB?style=for-the-badge&logo=cplusplus&logoColor=CCFF00" alt="C++" /></a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-0047AB?style=for-the-badge&logo=javascript&logoColor=CCFF00" alt="JavaScript" /></a>
+
+<br/><br/>
+
+**<sub>EMBEDDED & IoT</sub>**
+
+<a href="#"><img src="https://img.shields.io/badge/ESP8266-0047AB?style=for-the-badge&logo=espressif&logoColor=CCFF00" alt="ESP8266" /></a>
+<a href="#"><img src="https://img.shields.io/badge/RFID-0047AB?style=for-the-badge&logoColor=CCFF00&labelColor=000000" alt="RFID" /></a>
+<a href="#"><img src="https://img.shields.io/badge/GPS-0047AB?style=for-the-badge&logo=googlemaps&logoColor=CCFF00" alt="GPS" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Firebase-0047AB?style=for-the-badge&logo=firebase&logoColor=CCFF00" alt="Firebase" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Arduino-0047AB?style=for-the-badge&logo=arduino&logoColor=CCFF00" alt="Arduino" /></a>
+<a href="#"><img src="https://img.shields.io/badge/IoT-CCFF00?style=for-the-badge&logoColor=0047AB&labelColor=000000" alt="IoT" /></a>
+
+<br/><br/>
+
+**<sub>FULL-STACK WEB</sub>**
+
+<a href="#"><img src="https://img.shields.io/badge/React-0047AB?style=for-the-badge&logo=react&logoColor=CCFF00" alt="React" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Node.js-0047AB?style=for-the-badge&logo=nodedotjs&logoColor=CCFF00" alt="Node.js" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Express-0047AB?style=for-the-badge&logo=express&logoColor=CCFF00" alt="Express" /></a>
+<a href="#"><img src="https://img.shields.io/badge/MongoDB-0047AB?style=for-the-badge&logo=mongodb&logoColor=CCFF00" alt="MongoDB" /></a>
+<a href="#"><img src="https://img.shields.io/badge/UI%2FUX_Design-CCFF00?style=for-the-badge&logoColor=0047AB&labelColor=000000" alt="UI/UX" /></a>
+
+<br/><br/>
+
+**<sub>AI / LLM APIs</sub>**
+
+<a href="#"><img src="https://img.shields.io/badge/Gemini_API-0047AB?style=for-the-badge&logo=googlegemini&logoColor=CCFF00" alt="Gemini" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Groq_API-0047AB?style=for-the-badge&logoColor=CCFF00" alt="Groq" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Llama_Models-0047AB?style=for-the-badge&logo=meta&logoColor=CCFF00" alt="Llama" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Prompt_Engineering-CCFF00?style=for-the-badge&logoColor=0047AB&labelColor=000000" alt="Prompt Engineering" /></a>
+
+<br/><br/>
+
+**<sub>TOOLS</sub>**
+
+<a href="#"><img src="https://img.shields.io/badge/Git-0047AB?style=for-the-badge&logo=git&logoColor=CCFF00" alt="Git" /></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-0047AB?style=for-the-badge&logo=github&logoColor=CCFF00" alt="GitHub" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Canva-0047AB?style=for-the-badge&logo=canva&logoColor=CCFF00" alt="Canva" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Figma-0047AB?style=for-the-badge&logo=figma&logoColor=CCFF00" alt="Figma" /></a>
+
+</div>
+
 <br/>
 
-An agentic AI platform that parses resumes, identifies skill gaps against target roles, and generates personalized learning roadmaps — with live job matching baked in.
+<!-- ===== GITHUB ACTIVITY ===== -->
+<div align="center">
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | React, FastAPI, MongoDB, Google Gemini API, Adzuna Jobs API |
-| **Scale** | Simultaneous skill-gap analysis across 3+ job roles per user |
-| **Performance** | Async FastAPI backend with multi-format file upload support |
-| **Security** | Sanitized resume parsing, isolated user report generation |
-| **Impact** | Actionable, personalized upskilling roadmaps tied to real job market data |
-| **Repository** | [github.com/Abishek5383](https://github.com/Abishek5383/Agentic-AI-for-Skill-Gap-Analysis-and-Job-Recommendation)  |
+## <img src="https://img.shields.io/badge/%F0%9F%93%8A-GITHUB_ACTIVITY-0047AB?style=flat-square&labelColor=000000&color=0047AB" alt="Activity" /> &nbsp; Live Stats
 
-Resumes are parsed through the **Google Gemini API** to extract skills and generate structured skill-gap reports, while the **Adzuna Jobs API** feeds real-time job matches into the recommendation engine — closing the loop between skill diagnosis and actual opportunity.
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="middle" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abishek-S&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=0047AB&text_color=CCFF00&icon_color=CCFF00&border_color=0047AB&hide_border=false&rank_icon=github&cache_seconds=86400" alt="GitHub Stats" width="100%" />
+
+</td>
+<td width="50%" valign="middle" align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abishek-S/Abishek-S/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abishek-S/Abishek-S/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Abishek-S/Abishek-S/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+</picture>
+
+<sub><i>🐍 Snake devours my commits — generated daily via GitHub Action</i></sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ===== FEATURED PROJECTS ===== -->
+<div align="center">
+
+## <img src="https://img.shields.io/badge/%F0%9F%9A%80-PROJECTS-0047AB?style=flat-square&labelColor=000000&color=0047AB" alt="Projects" /> &nbsp; Featured Work
+
+</div>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🎯 Smart Attendance & Live Location Tracking for Tourists
+<sub><i>IoT + Safety · ESP8266 · RFID · GPS · Firebase</i></sub>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ESP8266-0047AB?style=flat-square&logo=espressif&logoColor=CCFF00" alt="ESP8266" />
+<img src="https://img.shields.io/badge/RFID-0047AB?style=flat-square&logoColor=CCFF00&labelColor=000000" alt="RFID" />
+<img src="https://img.shields.io/badge/GPS-0047AB?style=flat-square&logo=googlemaps&logoColor=CCFF00" alt="GPS" />
+<img src="https://img.shields.io/badge/Firebase-0047AB?style=flat-square&logo=firebase&logoColor=CCFF00" alt="Firebase" />
+<img src="https://img.shields.io/badge/Geofencing-CCFF00?style=flat-square&logoColor=0047AB&labelColor=000000" alt="Geofencing" />
+
+</div>
+
+- Built an IoT-based system for **automatic attendance tracking** and **real-time tourist location monitoring** using ESP8266, RFID and GPS.
+- Integrated **Firebase** as the central datastore for attendance logs and GPS streams.
+- Implemented **geofencing alerts** for tourist safety management.
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### 🤖 Agentic AI — Skill Gap Analysis & Job Recommendation
+<sub><i>Full-Stack + AI · React · Node.js · Express · MongoDB · Gemini API</i></sub>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-0047AB?style=flat-square&logo=react&logoColor=CCFF00" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-0047AB?style=flat-square&logo=nodedotjs&logoColor=CCFF00" alt="Node" />
+<img src="https://img.shields.io/badge/Express-0047AB?style=flat-square&logo=express&logoColor=CCFF00" alt="Express" />
+<img src="https://img.shields.io/badge/MongoDB-0047AB?style=flat-square&logo=mongodb&logoColor=CCFF00" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Gemini_API-0047AB?style=flat-square&logo=googlegemini&logoColor=CCFF00" alt="Gemini" />
+<img src="https://img.shields.io/badge/Adzuna_Jobs-CCFF00?style=flat-square&logoColor=0047AB&labelColor=000000" alt="Adzuna" />
+
+</div>
+
+- AI-powered system that **analyzes resumes, extracts skills, identifies skill gaps**, and recommends suitable job roles.
+- Integrated **Gemini API** for AI skill extraction and **Adzuna Jobs API** for real-time job matching.
+- Generated **personalized learning roadmaps** based on identified skill gaps.
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### 💼 Hire-Flow — AI Recruitment Agent
+<sub><i>AI Tooling · React · Node.js · Express · MongoDB · Groq API · Llama</i></sub>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-0047AB?style=flat-square&logo=react&logoColor=CCFF00" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-0047AB?style=flat-square&logo=nodedotjs&logoColor=CCFF00" alt="Node" />
+<img src="https://img.shields.io/badge/Express-0047AB?style=flat-square&logo=express&logoColor=CCFF00" alt="Express" />
+<img src="https://img.shields.io/badge/MongoDB-0047AB?style=flat-square&logo=mongodb&logoColor=CCFF00" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Groq_API-0047AB?style=flat-square&logoColor=CCFF00" alt="Groq" />
+<img src="https://img.shields.io/badge/Llama-CCFF00?style=flat-square&logo=meta&logoColor=0047AB&labelColor=000000" alt="Llama" />
+
+</div>
+
+- AI-powered recruitment assistant for **resume screening and candidate ranking**.
+- Integrated **Llama-based AI models** (via Groq API) to match candidate skills with job requirements.
+- Built a **recruiter dashboard** to manage candidate profiles and the hiring pipeline end-to-end.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ===== EXPERIENCE / CERTS / ACHIEVEMENTS (collapsible) ===== -->
+<div align="center">
+
+## <img src="https://img.shields.io/badge/%F0%9F%93%9C-MORE-0047AB?style=flat-square&labelColor=000000&color=0047AB" alt="More" /> &nbsp; Experience · Certs · Wins
+
+</div>
+
+<details>
+<summary><b>💼 Experience — NoviTech R&D Private Limited (2025)</b></summary>
+<br/>
+
+> **Full Stack Web Development & Artificial Intelligence** · Tamil Nadu, India
+
+- Completed intensive training in **full-stack web development** and **artificial intelligence**, with hands-on experience building responsive web interfaces.
+- Applied **prompt engineering techniques** and integrated **LLM APIs** to develop AI-powered web features.
 
 </details>
 
 <details>
-<summary><b>🛡️ AI-Driven Next-Generation Firewall (NGFW)</b></summary>
+<summary><b>🎓 Education</b></summary>
 <br/>
 
-A real-time, machine-learning-based intrusion detection system that classifies live network traffic and dynamically blocks malicious sources.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | React, FastAPI, XGBoost, Scapy, MongoDB |
-| **Scale** | Full live packet-capture-to-dashboard pipeline |
-| **Performance** | 95%+ classification accuracy (BENIGN / DDoS / PortScan) on CICIDS2017-style dataset |
-| **Security** | Dynamic IP blocklisting driven by real-time inference |
-| **Impact** | ML-driven adaptive defense beyond static firewall rule sets |
-| **Repository** | [github.com/Abishek5383](https://github.com/Abishek5383/AI-Driven-Next-Gen-Firewall)|
-
-Live traffic is captured via **Scapy/Npcap**, classified through an **XGBoost** inference backend served over **FastAPI**, and visualized on a **React dashboard** with auto-refresh and built-in attack simulation for live demos.
+| Year | Qualification | Institution | Score |
+| :---: | :--- | :--- | :---: |
+| 2023 – 2027 (Pursuing) | B.E. Electronics & Communication Engineering | V.S.B. Engineering College, Karur (Anna University) | CGPA 7.5 |
+| 2021 – 2023 | HSC (Class XII) | P.A. Vidya Bhavan Hr. Sec. School, Karur | 70% |
+| 2016 – 2021 | SSLC (Class X) | P.A. Vidya Bhavan Hr. Sec. School, Karur | — |
 
 </details>
 
 <details>
-<summary><b>🧑‍💼 HireFlow — AI-Powered Recruitment Platform</b></summary>
+<summary><b>📜 Certifications</b></summary>
 <br/>
 
-An end-to-end AI recruitment platform that automates resume parsing, candidate scoring, ranking, and interview question generation — including OCR support for scanned resumes and automated recruiter-candidate communication.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | React 19, TypeScript, Vite, Tailwind CSS, FastAPI, MongoDB (Motor/PyMongo), Google Gemini AI |
-| **Scale** | Multi-candidate resume parsing, scoring, and ranking pipeline |
-| **Performance** | Async FastAPI + Motor backend for non-blocking database operations |
-| **Security** | JWT-based authentication (`python-jose`), bcrypt password hashing (`passlib`) |
-| **Impact** | Automates recruiter workflows from resume intake to interview scheduling |
-| **Repository** | [github.com/Abishek5383/HireFlow](https://github.com/Abishek5383/HireFlow) |
-
-Resumes — including scanned PDFs — are parsed via **pdfplumber**, **python-docx**, and a **pytesseract/pdf2image** OCR pipeline, then handed to **Google Gemini AI** for candidate scoring, ranking, and auto-generated interview questions. Recruiters are notified through an integrated SMTP email service, with both frontend and backend configured for **Vercel** deployment.
+- 🟦 **Java Programming** — GUVI (2024)
+- 🟦 **Node.js** — Internshala (2024)
+- 🟦 **Full-Stack Web Development** — NoviTech R&D (2025)
+- 🟦 **Introduction to IoT** — Cisco (2026)
 
 </details>
 
----
+<details>
+<summary><b>🏆 Achievements</b></summary>
+<br/>
 
-### 💼 Experience
+- 🟩 **ET Gen AI Hackathon** — organized by *The Economic Times*; shortlisted for the **semi-final round**.
+- 🟩 **Smart India Hackathon (SIH) 2024** — selected at the **college level**.
 
-**Full Stack Web Development & Artificial Intelligence · NoviTech R&D Private Limited**
-`2025 · Tamil Nadu, India`
+</details>
 
-- Completed intensive virtual training focused on **front-end development**, gaining hands-on experience building responsive user interfaces
-- Explored **Generative AI** concepts — implementing prompt engineering techniques and integrating LLM APIs into intelligent web features
+<br/>
 
-`Front-End Development` `Generative AI` `Prompt Engineering` `LLM Integration`
-
----
-
-### 🏆 Achievements
-
+<!-- ===== CONTACT ===== -->
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| **Smart India Hackathon (SIH)** | Disaster Management System — 2024 |
-| **Coimbatore Institute of Technology** | Agentic AI for Skill Gap Analysis — 2026 |
+## <img src="https://img.shields.io/badge/%F0%9F%93%AB-CONTACT-0047AB?style=flat-square&labelColor=000000&color=0047AB" alt="Contact" /> &nbsp; Let's Connect
 
 </div>
 
----
-
-### 📜 Certifications
-
-**GUVI**
-
-![Java](https://img.shields.io/badge/Java_Programming-2024-0A2647?style=for-the-badge&logo=coursera&logoColor=E8F4FD&labelColor=050710)
-
-**NoviTech R&D**
-
-![FullStack](https://img.shields.io/badge/Full_Stack_Web_Development-2025-144272?style=for-the-badge&logo=novu&logoColor=E8F4FD&labelColor=050710)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-2025-144272?style=for-the-badge&logo=openai&logoColor=00D9FF&labelColor=050710)
-
----
-
-### 📊 GitHub Analytics
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abishek5383&show_icons=true&theme=radical&hide_border=true&bg_color=050710&title_color=00D9FF&icon_color=144272&text_color=E8F4FD&count_private=true" width="49%" />
-<img src="https://streak-stats.demolab.com?user=Abishek5383&theme=radical&hide_border=true&background=050710&ring=144272&fire=00D9FF&currStreakLabel=E8F4FD" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek5383&layout=compact&theme=radical&hide_border=true&bg_color=050710&title_color=00D9FF&text_color=E8F4FD" width="49%" />
+<a href="mailto:s.abishek5383@gmail.com"><img src="https://img.shields.io/badge/EMAIL-s.abishek5383@gmail.com-0047AB?style=for-the-badge&logo=gmail&logoColor=CCFF00" alt="Email" /></a>
+<br/><br/>
+<a href="tel:+919894745383"><img src="https://img.shields.io/badge/PHONE-%2B91%2098947%2045383-0047AB?style=for-the-badge&logo=phone&logoColor=CCFF00" alt="Phone" /></a>
+<br/><br/>
+<a href="https://github.com/Abishek-S"><img src="https://img.shields.io/badge/GITHUB-Abishek--S-0047AB?style=for-the-badge&logo=github&logoColor=CCFF00" alt="GitHub" /></a>
+<br/><br/>
+<a href="https://linkedin.com/in/abishek-s"><img src="https://img.shields.io/badge/LINKEDIN-Abishek%20S-0047AB?style=for-the-badge&logo=linkedin&logoColor=CCFF00" alt="LinkedIn" /></a>
+<br/><br/>
+<img src="https://img.shields.io/badge/LOCATION-Karur%2C%20Tamil%20Nadu%2C%20India-0047AB?style=for-the-badge&logo=googlemaps&logoColor=CCFF00" alt="Location" />
 
 </div>
 
----
+<br/>
 
-
-
-### 📈 Contribution Activity
-
+<!-- ===== FOOTER ===== -->
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abishek5383&theme=react-dark&bg_color=050710&color=00D9FF&line=144272&point=E8F4FD&hide_border=true" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=80&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=CCFF00&fontAlignY=65&desc=Let's%20build%20something%20that%20ships.&descSize=12&descColor=CCFF00&descAlignY=80&animation=fadeIn" width="100%" alt="Footer" />
 
 </div>
 
----
-
-
-
-### 🎯 Current Focus
-
-```yaml
-learning:
-  - Advanced Generative AI & Agentic Systems
-  - Machine Learning for Network Security
-  - System Design for Full-Stack Applications
-
-building:
-  - Expanding the Agentic AI Skill-Gap Platform
-  - Refining the AI-Driven NGFW Detection Pipeline
-
-exploring:
-  - LLM-Powered Product Engineering
-  - Applied Cybersecurity Automation
-
-open_to:
-  - Software Engineering Roles
-  - AI/ML Engineering Roles
-  - Full-Stack Development Opportunities
-```
-
----
-
-### 📬 Connect With Me
+<br/>
 
 <div align="center">
 
-<a href="mailto:s.abishek5383@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A2647?style=for-the-badge&logo=gmail&logoColor=E8F4FD&labelColor=050710" /></a>
-<a href="https://www.linkedin.com/in/abishek5383/"><img src="https://img.shields.io/badge/LinkedIn-144272?style=for-the-badge&logo=linkedin&logoColor=E8F4FD&labelColor=050710" /></a>
-<a href="https://github.com/Abishek5383"><img src="https://img.shields.io/badge/GitHub-144272?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=050710" /></a>
-
-</div>
-
----
-
-<div align="center">
-
-*Building systems that ship, not just demos.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0A2647,100:050710&height=150&section=footer" width="100%"/>
+<sub><i>Styling by </i><b>Abishek S</b><i> — built with </i>❤️<i>, </i><code style="color:#0047AB">cobalt blue</code><i> + </i><code style="color:#CCFF00">acid lime</code><i> on a black canvas.</i></sub>
 
 </div>
